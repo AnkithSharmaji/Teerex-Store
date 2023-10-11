@@ -1,0 +1,13 @@
+.app {
+  position: relative;
+}
+
+.content {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  width: 100%;
+}
+::-webkit-scrollbar {
+  width: 0;
+}
