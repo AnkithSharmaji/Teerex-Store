@@ -1,6 +1,4 @@
-# Teerex-Store
-
-## T-Shirt E-Commerce Web Application and Overview
+# Teerex-Store T-Shirt E-Commerce Web Application and Overview
 Welcome to the T-Shirt E-Commerce web application! This project is designed to help King Shan launch his online T-shirt business, where customers can browse through a catalog of T-shirts, add items to their shopping cart, and complete the checkout process.
 
 1. Browse the catalog on a product listing page.
