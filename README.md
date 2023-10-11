@@ -1,5 +1,33 @@
 # Teerex-Store
 
+## T-Shirt E-Commerce Web Application and Overview
+Welcome to the T-Shirt E-Commerce web application! This project is designed to help King Shan launch his online T-shirt business, where customers can browse through a catalog of T-shirts, add items to their shopping cart, and complete the checkout process.
+
+1. Browse the catalog on a product listing page.
+    * Each product card displays the image, name, and price.
+2. Search for products using free text, combining attributes like Name, Colour, and Type (e.g., "green polo").
+3. Apply filters to narrow down product listings based on attributes:
+    * Gender
+    * Colour
+    * Price range
+    * Type
+4. Add one or more T-shirts to the shopping cart.
+5. View the shopping cart by clicking the shopping cart icon.
+6. Adjust quantities or delete items from the shopping cart.
+7. See the total amount of items in the shopping cart.
+
+
+## Getting Started
+1. To run this project on your local machine, follow these steps:
+2. Clone this repository to your local machine.
+3. Navigate to the project directory in your terminal.
+4. Run the following command to install the project dependencies:
+5. Run `npm install` to install the project dependencies.
+6. Run `npm start` to start the development server.
+7. Open your browser and go to `http://localhost:3000` to access the application.
+
+
+
 
 
 # Getting Started with Create React App
